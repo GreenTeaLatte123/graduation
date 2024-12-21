@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "532737202205",
+    "firebase_url": "https://raspberry-b22a0-default-rtdb.firebaseio.com",
+    "project_id": "raspberry-b22a0",
+    "storage_bucket": "raspberry-b22a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532737202205:android:d21d33787cc0f2b64e4ef4",
+        "android_client_info": {
+          "package_name": "com.example.test"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkuu9LcqAGgNku1UlGRVcblSxWB2eey0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
